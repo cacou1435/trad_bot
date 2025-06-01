@@ -1,1 +1,1 @@
-discord-trad-bot==1.0.1
+discord-trad-bot==2.0.1
